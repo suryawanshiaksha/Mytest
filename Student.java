@@ -1,1 +1,3 @@
-
+class Student{
+  int id;
+}
